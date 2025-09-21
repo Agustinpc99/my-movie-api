@@ -1,5 +1,4 @@
-{
-  "movies": [
+[
   {
     "id": "653035c2c61a4a32bd272480",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj1el5x4Ow9LL8OjnyDilys-XyLrgIKTawkQ&s",
@@ -678,4 +677,4 @@
     "tagline": "Mankind was born on Earth. It was never meant to die here.",
     "budget": 165000000
   }
-]}
+]
